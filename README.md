@@ -1,4 +1,4 @@
-# ⚡ BlueCom Network Troubleshooter Agent
+# ⚡ Network Troubleshooter Agent
 
 <div align="center">
 
@@ -783,4 +783,5 @@ We welcome contributions! Please follow these steps:
 
 ### Contact
 - Email: manobhisriram@gmail.com
+
 
